@@ -116,6 +116,10 @@ src/
 
 📧 Feel free to connect and collaborate!
 
+## 🌐 Live Demo
+
+🔗 https://movie-app-c7fs.vercel.app/
+
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
